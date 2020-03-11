@@ -1,0 +1,63 @@
+.contenedor {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dado {
+    text-align: center;
+    display: inline-block;
+    position: relative;
+    margin: 0rem 2rem 0rem 2rem; 
+
+  
+  }
+  
+  body {
+    background-image:url("images/table3.PNG");
+    background-repeat: no-repeat;
+    background-size: 140rem;
+    background-position: center;
+    padding-top: 1rem;
+  }
+  
+    h1 {
+      margin: 30px;
+    font-family: 'Quantico', sans-serif;
+    text-shadow: 6px 3px #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+  }
+  
+  p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family:'Work Sans', sans-serif;
+  }
+  
+
+ 
+
+
+
+  .img {
+    width: 80%;
+  }
+   button{
+    font-family: 'Work Sans', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    color:  #4ECCA3;
+    background-color: transparent;
+    border-radius: 40px;
+    border: 5px double #FFFFFF;
+    margin-top: 4rem;
+  }
+  footer {
+    margin: 2%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  
